@@ -8,7 +8,7 @@ st.title('Host Optimal Price Prediction')
 
 # Load Model
 
-rf_model=pickle.load(open('airbnb.pickle','rb'))
+rf_model=pickle.load(open('Capstone_Project_Git/airbnb.pickle','rb'))
 
 
 
